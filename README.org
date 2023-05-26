@@ -1,0 +1,9 @@
+* cl-xul
+
+Mozilla XUL bindings for Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/mmontone/cl-xul.git |
+| commit  | 049c866                                    |
+| systems | cl-xul                                     |
+|---------+--------------------------------------------|
