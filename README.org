@@ -7,4 +7,4 @@ Mozilla XUL bindings for Common Lisp
 | commit  | 049c866                                    |
 | systems | cl-xul                                     |
 |---------+--------------------------------------------|
- 
+  
